@@ -1,8 +1,7 @@
-## Hi there 👋
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=a0dea4&height=180&text=Hello!%20I'm%20Sehyeon!&animation=twinkling&fontColor=ffffff&fontSize=60" />
     </div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u0ahya5)](https://github.com/u0ahya5/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u0ahya5&layout=compact&theme=radical)
 
 <!--
 **u0ahya5/u0ahya5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
