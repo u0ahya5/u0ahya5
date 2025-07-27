@@ -1,8 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=a0dea4&height=180&text=Hello!%20I'm%20Sehyeon!&animation=twinkling&fontColor=ffffff&fontSize=60" />
     </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u0ahya5&layout=compact&theme=dracula)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=u0ahya5&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/u0ahya5"
