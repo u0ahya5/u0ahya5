@@ -4,7 +4,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=u0ahya5&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/u0ahya5" 
-  width="700"
+  width="700" 
   height="300"
 />
 </a>
