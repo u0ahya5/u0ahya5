@@ -1,6 +1,6 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=#4261627950696e6b&height=180&text=Hello!%20I'm%20Sehyeon!&animation=twinkling&fontColor=ffffff&fontSize=60" />
-    </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&text=Hello!%20I'm%20Sehyeon!&animation=twinkling&fontColor=ffffff&fontSize=60" />
+</div>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=u0ahya5&utm_content=farm">
 <img
   src = "https://render.gitanimals.org/farms/u0ahya5" 
