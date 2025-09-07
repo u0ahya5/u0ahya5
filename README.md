@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff0f5,100:ffc0cb&height=180&text=Hello!%20I'm%20Sehyeon!&animation=twinkling&fontColor=ffffff&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ffb6c1&height=180&text=Hello!%20I'm%20Sehyeon!&animation=twinkling&fontColor=ffffff&fontSize=60" />
 </div>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=u0ahya5&utm_content=farm">
 <img
