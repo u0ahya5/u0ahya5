@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ffb6c1&height=180&text=Hello!%20I'm%20Sehyeon!&animation=twinkling&fontColor=ffffff&fontSize=60" />
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ffb6c1&height=180&text=Hello!%20I'm%20Sehyeon!&animation=twinkling&fontColor=ffffff&fontSize=60" /> -->
 </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B9B&width=435&lines=Hello!+I'm+Sehyeon!)](https://git.io/typing-svg)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=u0ahya5&utm_content=farm">
 <img
   src = "https://render.gitanimals.org/farms/u0ahya5"   
