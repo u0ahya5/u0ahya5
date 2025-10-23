@@ -9,9 +9,7 @@
   height="300"
 />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u0ahya5)](https://github.com/anuraghazra/github-readme-stats)
-출처: https://hulrud.tistory.com/3
-
+(https://github-readme-stats.vercel.app/api/top-langs/?username=u0ahya5)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **u0ahya5/u0ahya5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
