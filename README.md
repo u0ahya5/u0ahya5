@@ -9,7 +9,10 @@
   height="300"
 />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u0ahya5)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align= "center"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u0ahya5&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
+</div>
 <!--
 **u0ahya5/u0ahya5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
