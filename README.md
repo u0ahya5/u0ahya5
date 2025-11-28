@@ -2,7 +2,7 @@
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc0cb,100:ffb6c1&height=180&text=Hello!%20I'm%20Sehyeon!&animation=twinkling&fontColor=ffffff&fontSize=60" /> -->
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B9B&width=435&lines=Hello!+I'm+Sehyeon!;Welcome+to+My+World+%E0%B7%86%E0%B8%85%CC%81%CB%98%E0%B8%85%CC%80%E0%B7%86" alt="Typing SVG" /></a>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=u0ahya5&utm_content=farm">
+
 <img
   src = "https://render.gitanimals.org/farms/u0ahya5"   
   width="700" 
